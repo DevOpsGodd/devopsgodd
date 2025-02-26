@@ -19,7 +19,7 @@
 
 ### 💡 About Me
 
-I'm a DevOps Engineer specializing in cloud infrastructure and automation. Beyond technical expertise, I'm passionate about personal development and growth mindset. I believe that technical excellence and continuous self-improvement go hand-in-hand, which is why I maintain both a technical blog and a self-improvement newsletter with over 452 subscribers.
+I'm a DevOps Engineer specializing in cloud infrastructure and automation. Beyond technical expertise, I'm passionate about personal development and growth mindset. I believe that technical excellence and continuous self-improvement go hand-in-hand, which is why I maintain both a technical blog and a self-improvement newsletter.
 
 My approach combines robust technical solutions with the human elements of growth, learning, and effective habit formation. This dual focus helps me build not just better systems, but better teams and better professionals.
 
