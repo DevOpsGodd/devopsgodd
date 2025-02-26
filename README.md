@@ -19,7 +19,9 @@
 
 ### 💡 About Me
 
-I'm a DevOps Engineer specializing in cloud infrastructure and automation. I bridge the gap between development and operations, implementing CI/CD pipelines and infrastructure as code to streamline software delivery. With deep expertise in Kubernetes, Terraform, and multicloud environments, I focus on creating resilient systems that scale efficiently.
+I'm a DevOps Engineer specializing in cloud infrastructure and automation. Beyond technical expertise, I'm passionate about personal development and growth mindset. I believe that technical excellence and continuous self-improvement go hand-in-hand, which is why I maintain both a technical blog and a self-improvement newsletter with over 452 subscribers.
+
+My approach combines robust technical solutions with the human elements of growth, learning, and effective habit formation. This dual focus helps me build not just better systems, but better teams and better professionals.
 
 ## 🛠️ Tools and Technologies
 
@@ -60,5 +62,23 @@ I'm a DevOps Engineer specializing in cloud infrastructure and automation. I bri
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huxman69@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1oSMj-hgMZfKynW2rGpZZZ-WnW-LxZo8h?usp=drive_link)
 [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://uthy.hashnode.dev/)
+[![📚 Newsletter](https://img.shields.io/badge/Newsletter-FFC639?style=for-the-badge&logo=rss&logoColor=black)](https://evolvebydevopsgod.beehiiv.com/subscribe)
 
 ---
+## 📬 Join My Personal Growth Newsletter
+
+I write about self-improvement, personal development, and growth mindset in my newsletter **"Evolve by DevOpsGod"**. With over 452 subscribers and growing, I share insights that help you improve while I do the same.
+
+> Helping you improve while I do the same
+
+[![📚 Read My Newsletter](https://img.shields.io/badge/Read_My_Newsletter-FFC639?style=for-the-badge&logo=beehiiv&logoColor=black)](https://evolvebydevopsgod.beehiiv.com/)
+
+My newsletter covers topics like:
+- Building effective habits and routines
+- Productivity techniques that actually work
+- Mental models for better decision-making
+- Career growth and professional development
+- Book insights and practical takeaways
+
+---
+
